@@ -1,0 +1,1 @@
+<?php echo $__env->yieldContent('main'); ?><?php /**PATH /app/resources/views/errors/_layout.blade.php ENDPATH**/ ?>
